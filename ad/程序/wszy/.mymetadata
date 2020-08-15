@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wszy"
+  id="myeclipse.1301694735687"
+  context-root="/wszy"
+  j2ee-spec="5.0"
+  archive="wszy.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
