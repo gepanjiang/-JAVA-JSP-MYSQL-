@@ -3,8 +3,14 @@
 #### 介绍
 网上作业批改系统的设计与实现(JAVA,JSP,MySQL)-1976
 
-#### 软件架构
-软件架构说明
+#### 运行截图
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0815/213458_c2e5263e_420766.png "20200815_193236_000.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0815/213507_699d7164_420766.png "20200815_193236_002.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0815/213517_4a782695_420766.png "20200815_193236_003.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0815/213526_7173a5e8_420766.png "20200815_193236_004.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0815/213534_1a65d803_420766.png "20200815_193236_001.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0815/213542_6ee794d5_420766.png "20200815_193236_005.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0815/213550_b377fe90_420766.png "20200815_193236_006.png")
 
 
 #### 安装教程
